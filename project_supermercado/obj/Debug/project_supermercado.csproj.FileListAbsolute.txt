@@ -1,0 +1,13 @@
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\bin\Debug\project_supermercado.exe.config
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\bin\Debug\project_supermercado.exe
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\bin\Debug\project_supermercado.pdb
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\obj\Debug\project_supermercado.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\obj\Debug\Catedra.CustomControls.TextboxMaxing.resources
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\obj\Debug\project_supermercado.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\obj\Debug\project_supermercado.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\obj\Debug\project_supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\obj\Debug\project_supermercado.exe
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\obj\Debug\project_supermercado.pdb
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\obj\Debug\project_supermercado.exe.config
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\obj\Debug\project_supermercado.Form1.resources
+C:\Users\Administrator\Source\Repos\project_supermercado\project_supermercado\obj\Debug\project_supermercado.frm_login.resources
